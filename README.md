@@ -1,6 +1,7 @@
 A modern, full-stack Movie Watchlist web application built with React, Vite, and Supabase featuring user authentication and real-time database management.
 
-Website link: moviwatchlist.netlify.app 
+Website link: moviwatchlist.netlify.app
+
 YouTube link: https://youtu.be/-UFbUCQNjt8 
 <div>
     <a href="https://www.loom.com/share/0ee5a441c0884dfd992e87651ed6cd3e">
